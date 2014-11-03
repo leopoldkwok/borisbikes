@@ -7,7 +7,7 @@ We created a simple system for managing Boris Bikes in London. Our system will k
 
 
 Learnings
----------- 
+---------
 * Use of CRC cards (Class-Responsibility-Collaboration).
 * Testing using Rspec
 * Object Orientated Design (OOD) and how objects interact with each 
