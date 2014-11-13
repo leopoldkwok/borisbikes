@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/leopoldkwok/borisbikes/badges/gpa.svg)](https://codeclimate.com/github/leopoldkwok/borisbikes)
 Boris Bikes
 ===========
 
